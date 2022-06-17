@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "approxOT"]
+	path = approxOT
+	url = https://github.com/ericdunipace/approxot
+	shallow = true
+	registered = true
+[submodule "RcppCGAL"]
+	path = RcppCGAL
+	url = https://github.com/ericdunipace/rcppcgal
+	shallow = true
+	registered = true

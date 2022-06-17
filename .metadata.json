@@ -1,0 +1,10 @@
+[
+  {
+    "package": "approxOT",
+    "oncran": true
+  },
+  {
+    "package": "RcppCGAL",
+    "oncran": true
+  }
+]
