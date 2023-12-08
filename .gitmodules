@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "causalOT"]
 	path = causalOT
-	url = https://github.com/cran/causalOT
+	url = https://github.com/ericdunipace/causalot
