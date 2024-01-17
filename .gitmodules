@@ -5,6 +5,9 @@
 [submodule "RcppCGAL"]
 	path = RcppCGAL
 	url = https://github.com/ericdunipace/rcppcgal
+[submodule "approxOT"]
+	path = approxOT
+	url = https://github.com/ericdunipace/approxot
 [submodule "causalOT"]
 	path = causalOT
 	url = https://github.com/ericdunipace/causalot
