@@ -5,6 +5,9 @@
 [submodule "RcppCGAL"]
 	path = RcppCGAL
 	url = https://github.com/ericdunipace/rcppcgal
+[submodule "WpProj"]
+	path = WpProj
+	url = https://github.com/ericdunipace/wpproj
 [submodule "approxOT"]
 	path = approxOT
 	url = https://github.com/ericdunipace/approxot
